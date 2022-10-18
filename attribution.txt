@@ -4,3 +4,4 @@
 Sounds:
 chips: https://freesound.org/s/445522/ (Cut and split)
 Bag of Chips: https://freesound.org/s/347748/ (Cut and split)
+crowd int murmur bar pub comedy club roomy NYC: https://freesound.org/s/455732/ (looped)
